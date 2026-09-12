@@ -1,0 +1,21 @@
+1) git init
+2) git status 
+3) git add filename
+4) git commit -m " adding file from staged to traked"
+5) git restore filename
+6) rm filename 
+7) git rm --cached filename\
+
+for ghithub to push from local
+a) from pat token
+8) git remote -v
+9) git branch -M master 
+10) git remote set-url origin https://pat token and @complete url 
+11)git branch
+12) git status
+13) git push origin master
+b) from ssh push key
+
+from github to local 
+clone ya fork (/fork gui se hi ho jayega )
+git clone link (https wala code option ke ander )
